@@ -1,0 +1,23 @@
+{
+  "name": "Card Manager",
+  "short_name": "CardManager",
+  "description": "Personal data and media management app",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0iIzNiODJmNiIgcng9IjQiLz48cGF0aCBkPSJNNCA2aDE2djJINFY2em0wIDVoMTZ2Mkg0di0yem0wIDVoMTZ2Mkg0di0yeiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0iIzNiODJmNiIgcng9IjQiLz48cGF0aCBkPSJNNCA2aDU2djJINFY2em0wIDVoMTZ2Mkg0di0yem0wIDVoMTZ2Mkg0di0yeiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "orientation": "portrait"
+}

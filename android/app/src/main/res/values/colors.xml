@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_blue">#ADD8E6</color>
+    <color name="primary_blue_dark">#87CEEB</color>
+    <color name="accent_pink">#FFB6C1</color>
+    <color name="background_white">#FFFFFF</color>
+    <color name="text_dark">#333333</color>
+    <color name="text_light">#666666</color>
+    <color name="card_male">#ADD8E6</color>
+    <color name="card_female">#FFB6C1</color>
+</resources>

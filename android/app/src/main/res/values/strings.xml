@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Card Manager</string>
+    <string name="welcome_title">Welcome to Card Manager</string>
+    <string name="pin_prompt">Enter your PIN to continue</string>
+    <string name="pin_forgot">Forgot PIN?</string>
+    <string name="security_question">what use of app</string>
+    <string name="security_answer">LUDO</string>
+    <string name="menu_cards">Manage Cards</string>
+    <string name="menu_excel">Excel Editor</string>
+    <string name="menu_gallery">Media Gallery</string>
+    <string name="menu_logout">Logout</string>
+    <string name="default_pin">2208</string>
+</resources>
